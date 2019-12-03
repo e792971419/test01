@@ -6,7 +6,7 @@ class App extends Component {
     render() {
         return (
             <div>
-                123
+                123123
             </div>
         )
     }
