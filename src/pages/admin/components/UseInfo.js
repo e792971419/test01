@@ -74,6 +74,7 @@ class UseInfo extends Component {
     }
 
     componentDidMount() { 
+        // **在这里触发异步的方法**
         this.props.getUserInfoAsync()
     }
 }
